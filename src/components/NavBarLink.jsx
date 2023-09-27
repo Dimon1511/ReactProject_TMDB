@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import PropTypes from "prop-types";
-import styles from "./NavbarLink.module.css";
+import styles from "./NavBarLink.module.css";
 
 function NavBarLink({ to, children }) {
   return (
